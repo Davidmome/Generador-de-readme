@@ -15,7 +15,8 @@
   Responde las preguntas que te proporcione el programa y este genera un readme automaticamente
   ## Demostracion
   ![video aplicacion](./Develop/assets/video/Videodemo.webm)
-  ![imagen de la pagina](./Develop/assets/images/demoimg.PNG)
+  ![imagen de la aplicacion](./Develop/assets/images/demoimg.PNG)
+  ![GIF de la aplicacion](./Develop/assets/images/demo.gif)
   ## Colaboradores
   David Morales
   ## Licencia
