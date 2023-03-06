@@ -1,1 +1,1 @@
-# Generador-de-readme
+# Código de inicio para Generador profesional de README
